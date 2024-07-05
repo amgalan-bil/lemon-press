@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="137.875" height="15.105" viewBox="0 0 137.875 15.105">
+        <g id="Group_1448" data-name="Group 1448" transform="translate(-598.265 -20)">
+          <path id="Path_8437" data-name="Path 8437" d="M4.584,3.6H1.128V12h1.56V9.576h1.9c2.208,0,3.576-1.14,3.576-2.988S6.792,3.6,4.584,3.6ZM4.512,8.256H2.688V4.92H4.512c1.368,0,2.076.612,2.076,1.668S5.88,8.256,4.512,8.256ZM10.32,12h5.952V10.68H11.88V3.6H10.32Zm14.136,0h1.632L22.3,3.6H20.76L16.98,12h1.608l.828-1.944h4.2ZM19.944,8.832,21.516,5.16,23.1,8.832ZM29.04,12H30.6V4.92h2.784V3.6H26.256V4.92H29.04ZM41.292,4.908V3.6H35.16V12h1.56V8.784h4.056V7.464H36.72V4.908Zm5.94,7.212A4.325,4.325,0,1,0,42.708,7.8,4.294,4.294,0,0,0,47.232,12.12Zm0-1.368A2.863,2.863,0,0,1,44.28,7.8a2.952,2.952,0,1,1,5.9,0A2.863,2.863,0,0,1,47.232,10.752ZM61.188,12,59.256,9.24a2.685,2.685,0,0,0,1.788-2.652c0-1.86-1.368-2.988-3.576-2.988H54.012V12h1.56V9.552h1.9a2.924,2.924,0,0,0,.324-.012L59.508,12ZM59.472,6.588c0,1.056-.708,1.68-2.076,1.68H55.572V4.92H57.4C58.764,4.92,59.472,5.532,59.472,6.588ZM72.576,12l-.012-8.4H71.28L68,9.168,64.668,3.6H63.384V12h1.488V6.5l2.76,4.536h.7l2.76-4.608L71.1,12Z" transform="translate(663.564 20)" fill="#fff"></path>
+          <g id="Group_1437" data-name="Group 1437" transform="translate(598.265 20)">
+            <rect id="Rectangle_96" data-name="Rectangle 96" width="5.035" height="10.07" fill="#fff"></rect>
+            <rect id="Rectangle_97" data-name="Rectangle 97" width="5.035" height="10.07" transform="translate(10.07)" fill="#fff"></rect>
+            <path id="Path_8422" data-name="Path 8422" d="M-3205.046,1910h-5.035v15.105h15.1v-5.035h-10.07Z" transform="translate(3230.221 -1910.002)" fill="#fff"></path>
+            <path id="Path_8423" data-name="Path 8423" d="M-3173.817,1910v5.035h10.07v5.035h-10.07v5.035h15.105V1910Z" transform="translate(3214.098 -1910.002)" fill="#fff"></path>
+            <rect id="Rectangle_98" data-name="Rectangle 98" width="5.035" height="5.035" transform="translate(5.035 10.07)" fill="#fff"></rect>
+          </g>
+        </g>
+      </svg>
